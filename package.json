@@ -1,0 +1,23 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "Elish",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "git": "^0.1.5",
+    "github": "^14.0.0",
+    "global": "^4.4.0",
+    "nodemon": "^2.0.16",
+    "sequelize": "^6.19.1",
+    "sqlite": "^4.1.1",
+    "sqlite3": "^5.0.8"
+  }
+}
